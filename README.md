@@ -2,6 +2,9 @@
 
 [Ubuntu Cinnamon](https://ubuntucinnamon.org/) is a community-driven flavor of Ubuntu, combining Linux Mint’s flagship Cinnamon Desktop with Ubuntu.
 
+> [!WARNING]
+> * This desktop will be removed soon!
+
 ![ubuntu-cinnamon](https://github.com/user-attachments/assets/f0921fc6-1f10-4e8c-b866-e6f4eaaa158b)
 
 ## Setup
